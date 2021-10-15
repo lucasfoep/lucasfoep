@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi there, I'm Lucas - Production Engineer (Fluminense Federal University) and passionate about analytics!!
 
-<!--
-**lucasfoep/lucasfoep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Interests: Analytics and problem solving
+- 🌱 I’m currently learning Power BI
+- 🔍 Goals:
+-     Start the MS in Data Science at Depaul University in the Spring semester.
+-     Get my first job in Analytics and do some serious professional growing!
+-     Study some machine learning.
+- ⚡ Fun fact: I'm Brazilian, new to the US and finally ready to work!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="lucasfoep | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+### Languages and Tools:
+
+- Python, SQL, Excel
+
+---
+
+- You can also send me an [email](mailto:lucasfoep@gmail.com)
+
+---
+
+[linkedin]: https://www.linkedin.com/in/lucas-de-oliveira-8a76b058/
