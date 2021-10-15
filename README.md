@@ -9,7 +9,9 @@
 - ⚡ Fun fact: I'm Brazilian, new to the US and finally ready to work!
 
 
-### Connect with me: [<img align="left" alt="lucasfoep | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Connect with me:
+
+- - - [<img align="left" alt="lucasfoep | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Languages and Tools:
 
