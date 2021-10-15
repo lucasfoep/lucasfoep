@@ -3,9 +3,9 @@
 - 💻 Interests: Analytics and problem solving
 - 🌱 I’m currently learning Power BI
 - 🔍 Goals:
--   Start the MS in Data Science at Depaul University in the Spring semester of 2021.
--   Get my first job in Analytics and do some serious professional growing!
--   Start delving into some machine learning.
+  -   Start the MS in Data Science at Depaul University in the Spring semester of 2021.
+  -   Get my first job in Analytics and do some serious professional growing!
+  -   Start delving into some machine learning.
 - ⚡ Fun fact: I'm Brazilian, new to the US and finally ready to work!
 
 
