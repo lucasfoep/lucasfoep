@@ -1,8 +1,9 @@
 ## Hi there, I'm Lucas - Industrial Engineer (Fluminense Federal University) and passionate about analytics!!
 
 - 💻 Interested in Analytics and problem solving
-- 🌱 I’m currently learning Power BI
+- 🌱 I’m currently learning T-SQL
 - 🔍 Goals:
+  - Learn Power BI until the end of November.
   - Start the MS in Data Science at Depaul University in the Spring semester of 2021.
   - Get my first job in Analytics and do some serious professional growing!
   - Start delving into some machine learning.
