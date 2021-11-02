@@ -16,7 +16,10 @@
 
 ### Languages and Tools:
 
-- Python, SQL, Excel
+- Python;
+- Jupyter Notebooks;
+- PostgreSQL and T-SQL (Select, Where, Group by, Having, Join, Order by);
+- Excel (Dynamic Tables and Charts, V and H look ups, if, sumif, countif, iferror, trim, concatenate, data validation and more)
 
 ---
 
