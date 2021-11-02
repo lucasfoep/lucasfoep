@@ -1,4 +1,4 @@
-## Hi there, I'm Lucas - Industrial Engineer (Fluminense Federal University) and passionate about analytics!!
+## Hi there, I'm Lucas - Industrial Engineer and passionate about analytics!!
 
 - 💻 Interested in Analytics and problem solving
 - 🌱 I’m currently learning T-SQL
