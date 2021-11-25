@@ -3,11 +3,11 @@
 - 💻 Interested in Analytics and problem solving
 - 🌱 I’m currently learning T-SQL
 - 🔍 Goals:
-  - Learn Power BI until the end of November.
+  - Learn Tableau until the end of December.
   - Start the MS in Data Science at Depaul University in the Spring semester of 2021.
   - Get my first job in Analytics and do some serious professional growing!
-  - Start delving into some machine learning.
-- ⚡ Fun fact: I'm Brazilian, new to the US and finally ready to work!
+  - Start delving into some machine learning in 2022
+- ⚡ Fun fact: I am now a Brazilian permanent resident of the United States!
 
 
 ### Connect with me:
@@ -18,7 +18,7 @@
 
 - Python;
 - Jupyter Notebooks;
-- PostgreSQL and T-SQL (Select, Where, Group by, Having, Join, Order by);
+- PostgreSQL and T-SQL (Select, Where, Group by, Having, Join, Order by, Partition by, CTE, Temp Table, Views);
 - Excel (Dynamic Tables and Charts, V and H look ups, if, sumif, countif, iferror, trim, concatenate, data validation and more)
 
 ---
