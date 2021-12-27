@@ -7,7 +7,7 @@
   - Start the MS in Data Science at Depaul University in the Spring semester of 2021.
   - Get my first job in Analytics and do some serious professional growing!
   - Start delving into some machine learning in 2022
-- ⚡ Fun fact: I am now a Brazilian permanent resident of the United States!
+- ⚡ Fun fact: I am now a permanent resident of the United States!
 
 
 ### Connect with me:
