@@ -1,4 +1,4 @@
-## Hi there, I'm Lucas - Industrial Engineer and passionate about analytics!!
+## Hi there, I'm Lucas - Data science student with a background in industrial engineering, passionate about problem solving and analytics!
 
 - 💻 Interested in Analytics and problem solving
 - 🌱 I’m currently looking for an internship!
