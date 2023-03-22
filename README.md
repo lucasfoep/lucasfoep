@@ -18,7 +18,7 @@
 - R(Tidyverse, ggplot2, caret, psych, stats, factoextra, kknn and more);
 - Decision trees, SVM, KNN, Kmeans, HAC, Regression, PCA, PFA;
 - Jupyter Notebooks, Spyder, PyCharm;
-- PostgreSQL, T-SQL and Oracle (Select, Where, Group by, Having, Join, Order by, Partition by, CTE, Temp Table, Views, Materialized views and more);
+- PostgreSQL, T-SQL, Oracle and SQLite3 (Select, Where, Group by, Having, Join, Order by, Partition by, CTE, Temp Table, Views, Materialized views and more);
 - Excel (Dynamic Tables and Charts, V and H look ups, if, sumif, countif, iferror, trim, concatenate, data validation and more)
 
 ---
