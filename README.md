@@ -1,13 +1,11 @@
 ## Hi there, I'm Lucas - Industrial Engineer and passionate about analytics!!
 
 - 💻 Interested in Analytics and problem solving
-- 🌱 I’m currently learning T-SQL
+- 🌱 I’m currently looking for an internship!
 - 🔍 Goals:
-  - Learn Tableau until the end of December.
-  - Start the MS in Data Science at Depaul University in the Spring semester of 2021.
+  - Learn Tableau and Time Series Forecasting until the end of Spring.
+  - Finish the MS in Data Science at Depaul University in 2024.
   - Get my first job in Analytics and do some serious professional growing!
-  - Start delving into some machine learning in 2022
-- ⚡ Fun fact: I am now a permanent resident of the United States!
 
 
 ### Connect with me:
@@ -16,9 +14,11 @@
 
 ### Languages and Tools:
 
-- Python(Numpy, Pandas, Matplotlib, DateTime, Openpyxl);
-- Jupyter Notebooks;
-- PostgreSQL and T-SQL (Select, Where, Group by, Having, Join, Order by, Partition by, CTE, Temp Table, Views);
+- Python(Numpy, Pandas, Matplotlib, DateTime, Openpyxl, sklearn, xgboost);
+- R(Tidyverse, ggplot2, caret, psych, stats, factoextra, kknn and more);
+- Decision trees, SVM, KNN, Kmeans, HAC, Regression, PCA, PFA;
+- Jupyter Notebooks, Spyder, PyCharm;
+- PostgreSQL, T-SQL and Oracle (Select, Where, Group by, Having, Join, Order by, Partition by, CTE, Temp Table, Views, Materialized views and more);
 - Excel (Dynamic Tables and Charts, V and H look ups, if, sumif, countif, iferror, trim, concatenate, data validation and more)
 
 ---
