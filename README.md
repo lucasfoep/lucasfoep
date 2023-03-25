@@ -14,12 +14,12 @@
 
 ### Languages and Tools:
 
-- Python(Numpy, Pandas, Matplotlib, DateTime, Openpyxl, sklearn, xgboost);
-- R(Tidyverse, ggplot2, caret, psych, stats, factoextra, kknn and more);
-- Decision trees, SVM, KNN, Kmeans, HAC, Regression, PCA, PFA;
-- Jupyter Notebooks, Spyder, PyCharm;
-- PostgreSQL, T-SQL, Oracle and SQLite3 (Select, Where, Group by, Having, Join, Order by, Partition by, CTE, Temp Table, Views, Materialized views and more);
-- Excel (Dynamic Tables and Charts, V and H look ups, if, sumif, countif, iferror, trim, concatenate, data validation and more)
+- Python: Numpy, Pandas, Matplotlib, DateTime, Openpyxl, sklearn, xgboost
+- R: Tidyverse, ggplot2, caret, psych, stats, factoextra, kknn and more
+- Machine Learning: Decision trees, SVM, KNN, Kmeans, HAC, Regression, PCA, PFA
+- Jupyter Notebooks, Spyder, PyCharm
+- SQL: PostgreSQL, T-SQL, Oracle and SQLite3(Select, Where, Group by, Having, Join, Order by, Partition by, CTE, Temp Table, Views, Materialized views and more)
+- Excel: Dynamic Tables and Charts, V and H look ups, if, sumif, countif, iferror, trim, concatenate, data validation and more
 
 ---
 
