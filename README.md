@@ -1,9 +1,9 @@
 ## Hi there, I'm Lucas - Data science student with a background in industrial engineering, passionate about problem solving and analytics!
 
 - 💻 Interested in Analytics and problem solving
-- 🌱 I’m currently looking for an internship!
+- 🌱 I’m currently looking for either an internship in data science or a full time job as a data analyst!
 - 🔍 Goals:
-  - Learn Tableau and Time Series Forecasting until the end of Spring.
+  - Learn Tableau and PowerBI until the end of Winter.
   - Finish the MS in Data Science at Depaul University in 2024.
   - Get my first job in Analytics and do some serious professional growing!
 
@@ -16,7 +16,9 @@
 
 - Python: Numpy, Pandas, Matplotlib, DateTime, Openpyxl, sklearn, xgboost
 - R: Tidyverse, ggplot2, caret, psych, stats, factoextra, kknn and more
-- Machine Learning: Decision trees, SVM, KNN, Kmeans, HAC, Regression, PCA, PFA
+- Machine Learning: Decision trees, SVM, KNN, Kmeans, HAC
+- Data analysis: PCA and PFA; Logistic, OLS, Ridge, LASSO and Elastic Net regression
+- Time series analysis and forecasting: ARIMA, Regression, GARCH, Vector Autoregression and Harmonic Regression
 - Jupyter Notebooks, Spyder, PyCharm
 - SQL: PostgreSQL, T-SQL, Oracle and SQLite3(Select, Where, Group by, Having, Join, Order by, Partition by, CTE, Temp Table, Views, Materialized views and more)
 - Excel: Dynamic Tables and Charts, V and H look ups, if, sumif, countif, iferror, trim, concatenate, data validation and more
