@@ -4,7 +4,7 @@
 - 🌱 I’m currently looking for either an internship in data science or a full time job as a data analyst!
 - 🔍 Goals:
   - Learn Tableau and PowerBI until the end of Winter.
-  - Finish the MS in Data Science at Depaul University in 2024.
+  - Finish the MS in Data Science at Depaul University in 2025.
   - Get my first job in Analytics and do some serious professional growing!
 
 
