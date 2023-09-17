@@ -3,7 +3,7 @@
 - 💻 Interested in Analytics and problem solving
 - 🌱 Looking forward to being part of an analytics team from which I can learn!
 - 🔍 Goals:
-  - Learn Tableau and PowerBI until the end of Winter.
+  - Learn Tableau and PowerBI.
   - Finish the MS in Data Science at Depaul University in 2025.
   - Get my first job in Analytics and do some serious professional growing!
 
