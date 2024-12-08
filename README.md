@@ -1,10 +1,8 @@
-## Hi there, I'm Lucas - Data science student with a background in industrial engineering, passionate about problem solving and analytics!
+## Hi there, I'm Lucas - I have a Masters in Data science, a Bachelors in Industrial Engineering, and am passionate about problem solving and analytics!
 
 - 💻 Interested in Analytics and problem solving
 - 🌱 Looking forward to being part of an analytics team from which I can learn!
 - 🔍 Goals:
-  - Learn Tableau and PowerBI.
-  - Finish the MS in Data Science at Depaul University.
   - Get my first job in Analytics and do some serious professional growing!
 
 
@@ -14,14 +12,14 @@
 
 ### Languages and Tools:
 
-- Python: Numpy, Pandas, Matplotlib, DateTime, Openpyxl, sklearn, xgboost
-- R: Tidyverse, ggplot2, caret, psych, stats, factoextra, kknn and more
-- Machine Learning: Decision trees, SVM, KNN, Kmeans, HAC
+- Python: Numpy, Pandas, Matplotlib, Seaborn, DateTime, Openpyxl, sklearn, statsmodels, PyTorch
+- R: Tidyverse, ggplot2, caret, psych, stats, factoextra, kknn
+- Machine Learning: Decision trees, Random Forests, XGBoost, SVM, KNN, Kmeans, HAC, Recommender Systems, Deep Neural Networks, Gradient Descent, Stochastic Gradient Descent
 - Data analysis: PCA and PFA; Logistic, OLS, Ridge, LASSO and Elastic Net regression
-- Time series analysis and forecasting: ARIMA, Regression, GARCH, Vector Autoregression and Harmonic Regression
-- Jupyter Notebooks, Spyder, PyCharm
-- SQL: PostgreSQL, T-SQL, Oracle and SQLite3(Select, Where, Group by, Having, Join, Order by, Partition by, CTE, Temp Table, Views, Materialized views and more)
-- Excel: Dynamic Tables and Charts, V and H look ups, if, sumif, countif, iferror, trim, concatenate, data validation and more
+- Time series analysis and forecasting: ARIMA, GARCH, Vector Autoregression and Harmonic Regression
+- SQL: PostgreSQL, T-SQL, Oracle and SQLite3(Select, Where, Group by, Having, Join, Order by, Partition by, CTE, Temp Table, Views, Materialized views)
+- Data Visualization: Matplotlib, Seaborn, Ggplot2, Tableau, Power Bi, QuickSight.
+- Excel (Dynamic Tables and Charts, V and H look ups, if, sumif, countif, iferror, trim, concatenate, data validation and more)
 
 ---
 
