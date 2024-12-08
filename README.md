@@ -1,4 +1,4 @@
-## Hi there, I'm Lucas - I have a Masters in Data science, a Bachelors in Industrial Engineering, and am passionate about problem solving and analytics!
+## With a bachelors in Industrial Engineering, a masters in Data Science and having volunteered as a business consultant for small businesses, I enjoy being part of a team where I can use a wide range of tools to solve problems, create and deliver value to customers while learning from insightful team members.
 
 - 💻 Interested in Analytics and problem solving
 - 🌱 Looking forward to being part of an analytics team from which I can learn!
