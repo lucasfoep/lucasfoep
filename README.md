@@ -2,8 +2,6 @@
 
 - 💻 Interested in Analytics and problem solving
 - 🌱 Looking forward to being part of an analytics team from which I can learn!
-- 🔍 Goals:
-  - Get my first job in Analytics and do some serious professional growing!
 
 
 ### Connect with me:
