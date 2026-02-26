@@ -1,7 +1,6 @@
 ## With a bachelors in Industrial Engineering, a masters in Data Science and having volunteered as a business consultant for small businesses, I enjoy being part of a team where I can use a wide range of tools to solve problems, create and deliver value to customers while learning from insightful team members.
 
-- 💻 Interested in Analytics and problem solving
-- 🌱 Looking forward to being part of an analytics team from which I can learn!
+- Senior Data Analyst building reproducible analytics systems (Python / SQL). Focused on automation, reliability, and measurable revenue impact.
 
 
 ### Connect with me:
