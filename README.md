@@ -22,5 +22,5 @@ Power BI
 ---
 
 📫 Contact: lucasfoep@gmail.com  
-🔗 LinkedIn: [<img align="left" alt="lucasfoep | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+🔗 LinkedIn: https://www.linkedin.com/in/lucas-de-oliveira-8a76b058/
 
