@@ -13,10 +13,10 @@ Focused on reproducibility, modular design, and measurable revenue impact.
 
 ### Technical Stack
 
-Python (pandas, scikit-learn, xgboost)
-SQL (PostgreSQL, T-SQL)
-Data modeling (star schema, fact/dimension design)
-Power BI
+- Python (pandas, scikit-learn, xgboost)
+- SQL (PostgreSQL, T-SQL)
+- Data modeling (star schema, fact/dimension design)
+- Power BI
 
 ---
 
